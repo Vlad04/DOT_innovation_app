@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="password" type="id" />
+    <item name="gamma" type="id" />
+    <item name="alpha" type="id" />
+    <item name="beta" type="id" />
+    <item name="deltha" type="id" />
+    <item name="theta" type="id" />
+    <item name="get_gamma" type="id" />
+    <item name="get_beta" type="id" />
+    <item name="get_alpha" type="id" />
+    <item name="get_deltha" type="id" />
+    <item name="get_theta" type="id" />
+</resources>

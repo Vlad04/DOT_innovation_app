@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/papi-vlad/.android/build-cache/d876a8a1e984d815568bac84a495cfec024d9810/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/papi-vlad/.android/build-cache/19196ba0526414d4db607841ac477633a398fb70/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/home/papi-vlad/.android/build-cache/3fbbb9af547c1b810dd6e93a9c313d1cba508dcf/output/res/color/abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/papi-vlad/.android/build-cache/d876a8a1e984d815568bac84a495cfec024d9810/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/papi-vlad/.android/build-cache/19196ba0526414d4db607841ac477633a398fb70/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/papi-vlad/.android/build-cache/d876a8a1e984d815568bac84a495cfec024d9810/output/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

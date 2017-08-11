@@ -1,0 +1,7 @@
+#Fri Jul 21 18:52:50 CDT 2017
+base.0=/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_726a6f0fa6f0848bd377d17da6aa048c48dee348
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b8a3e54d9974f94598e9bb366b6338beb94e263c/classes.dex
+base.1=/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b8a3e54d9974f94598e9bb366b6338beb94e263c
+file.0=/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_726a6f0fa6f0848bd377d17da6aa048c48dee348/classes.dex

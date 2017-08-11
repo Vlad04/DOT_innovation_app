@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.neurosky.algo_sdk_sample">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="DOT Innovation"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".LogInActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="DOT INNOVATION"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".GraphActivity" />
+        <activity android:name=".Calendario" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity android:name=".ResetPasswordActivity" />
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".Progress_graph" />
+        <activity android:name=".Graph_progress_empty"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "516502122358",
+    "firebase_url": "https://mindwave-5cb73.firebaseio.com",
+    "project_id": "mindwave-5cb73",
+    "storage_bucket": "mindwave-5cb73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516502122358:android:230163b75eee34e9",
+        "android_client_info": {
+          "package_name": "com.neurosky.algo_sdk_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516502122358-r2mmbeis37prb51q3c9gb3m69rj8enli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurosky.algo_sdk_sample",
+            "certificate_hash": "1b9e4b72db00f312326bac4f88c90e14775b2341"
+          }
+        },
+        {
+          "client_id": "516502122358-tr1p45qgquhnrs14d9vvj97pcur5b7r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqYQz2q321gazAieGEmXuCKr9oW-epZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516502122358-tr1p45qgquhnrs14d9vvj97pcur5b7r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

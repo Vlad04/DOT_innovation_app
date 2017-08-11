@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

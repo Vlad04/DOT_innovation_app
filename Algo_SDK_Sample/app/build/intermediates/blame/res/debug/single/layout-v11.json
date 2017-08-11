@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/home/papi-vlad/.android/build-cache/3fbbb9af547c1b810dd6e93a9c313d1cba508dcf/output/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/papi-vlad/.android/build-cache/3fbbb9af547c1b810dd6e93a9c313d1cba508dcf/output/res/layout-v11/abc_action_bar_decor.xml"
+    }
+]

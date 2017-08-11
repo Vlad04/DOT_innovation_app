@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/xml/line_point_formatter_with_plf5.xml",
+        "source": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/xml/line_point_formatter_with_plf5.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/xml/line_point_formatter_with_plf2.xml",
+        "source": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/xml/line_point_formatter_with_plf2.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/xml/line_point_formatter_with_plf3.xml",
+        "source": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/xml/line_point_formatter_with_plf3.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/xml/line_point_formatter_with_plf4.xml",
+        "source": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/xml/line_point_formatter_with_plf4.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/xml/line_point_formatter_with_plf1.xml",
+        "source": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/xml/line_point_formatter_with_plf1.xml"
+    }
+]

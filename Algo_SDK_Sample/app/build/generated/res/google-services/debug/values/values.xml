@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">516502122358-tr1p45qgquhnrs14d9vvj97pcur5b7r2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mindwave-5cb73.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">516502122358</string>
+    <string name="google_api_key" translatable="false">AIzaSyASqYQz2q321gazAieGEmXuCKr9oW-epZk</string>
+    <string name="google_app_id" translatable="false">1:516502122358:android:230163b75eee34e9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASqYQz2q321gazAieGEmXuCKr9oW-epZk</string>
+    <string name="google_storage_bucket" translatable="false">mindwave-5cb73.appspot.com</string>
+    <string name="project_id" translatable="false">mindwave-5cb73</string>
+</resources>

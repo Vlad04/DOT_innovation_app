@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/a05dd3b27119ddf18f7baedb31d575ccf47b429a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffb0b0b6b593ce51fda60f217664b14e81371f16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/f8cf1bcc960fe096466df866fb2483eb0042acc4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e357033452bcaddd4a59db18e34a0c2752a0108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/libStreamSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="466ab0e857b95e19ec5d2cb723c9a676e25c2787">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/libStreamSDK_70aef49affca66d5ce670a3cfb69dc8a91169b8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/4d8246088f4aacb38779e37849b6a13ed265a3a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94f5f289d23cc1839f82f509866e3f0a07e83d25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.2/5d4eb08a326bdbd7fbbddc769666898c9936b282/MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v3.0.2_59d94a97142b95e748606c4999005931c9ffd1bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/NskAlgoSdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="10137dee3cb168bb82e4ccbe76fe0d6107ea90b5">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/NskAlgoSdk_6ea6c66bf55e849ddaee89a2fead7f1534cc96dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/3af78ddf964289b9b841c34ea1134dbbd874a9db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8271cb317a43371b450a2ea1a84604b8a2e86b41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/d876a8a1e984d815568bac84a495cfec024d9810/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a06933f59787bce1fee2eb7a0d8ede6192c0bf67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/ff41d0b31f8a58dca51bb7f16bc54702c78efa44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e88a628b34267353f6bef9f5cb9f1349bf724e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/libStreamSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="466ab0e857b95e19ec5d2cb723c9a676e25c2787">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/libStreamSDK_70aef49affca66d5ce670a3cfb69dc8a91169b8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/d15441e85c12b436d266fe33bbad4e05a8a00994/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35a8061ee233f118df65710450c0a029fe437044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/7aeb94f2641b969cb54aef7a3728c50489f36c40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8990ddd6d958452d8198e9fb2a0f59941c6db957/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/33edebb048c396445522fa5ec874098683f471a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b458255de160bcff987329436cdebb204534198a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/f8cf1bcc960fe096466df866fb2483eb0042acc4/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_f35e0956f6e07fa74f0c1450556b36c317719b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_726a6f0fa6f0848bd377d17da6aa048c48dee348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/7541eb287841eb69b04a6e156d369d53ec7a7d38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ca2812fcea406b39b449217fb25e5233433d66d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/8b3de0e60e00e23ec8696a3b59c0f49d7ca9a7cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0678354a1ba04b17b07fe83b86ee7c2ebbb2ba1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/2378690a5f0009e1ae4a26a76b70a262bdcda1ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fc6273dac5a879f21af3620b143e88858fc6295/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/d004e29bc379beb74436ef08c0693b3aaa6e127d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1786b7ce097a40a28b339156802fb4f9cb5ea5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/androidplot-core-0.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidplot-core-0.6.1_048838ebcf48112bec05f36caa6741f072a61e15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/ca43934e3374c25ca870fcaf2666eacc6984fece/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45071855a00c7699ab77c711b1145d142bd66630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/NskAlgoSdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10137dee3cb168bb82e4ccbe76fe0d6107ea90b5">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/NskAlgoSdk_6ea6c66bf55e849ddaee89a2fead7f1534cc96dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/11cec7803b594e9b1cb030b27f7303f559be96d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e54eb544f924e47d84eeeade43904bd29a6c0ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/androidplot-core-0.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidplot-core-0.6.1_048838ebcf48112bec05f36caa6741f072a61e15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/6c8901942e8851c209ff6e9b2b64289ed02d23d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a092160bc484af9500de9fb961d3d7baf243ec0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/e96ae6d144225ad9626d402c5b4af2a1ad792924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7603c82eb64414f3cfb15497cf9499798d54049a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/6b876849de58c716e249fe68def9211c0c677303/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec568d23ba5860863ea58aa72f66e4ceae39087/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0adb8fe854219515206f65f15efca63f8bd0abec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_0ef08c6b64851a8b9a0a3b0aeb232a94045c3c8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/f56c3f12ac6a1046c68e2f31d2bd669882a64289/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd759977a71a21e2654c8a38851c20cf64c4c1df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/eeadc3f3b78f786ff4e913cd420664df2c6fdd46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7168863e80e02c1b81243d35f25efcac1b16d141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/.android/build-cache/db94346e2d89d1d73f1c820cf8446af8ccf051fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae3e58df5083168e7b9107ec9bbb9055e464ded6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/GraphView-4.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/GraphView-4.2.1_8d336bf3c20a149ad701328263788413c08bf963/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_428a6634793cc60d8c8b4d5c26c03ba290f11fd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e59e762750f22ce30f1d86d7db6880e6195711e7">
+        <dex dex="/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b8a3e54d9974f94598e9bb366b6338beb94e263c/classes.dex" />
+    </item>
+
+</items>

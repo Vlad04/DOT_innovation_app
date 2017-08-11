@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/papi-vlad/.android/build-cache/2378690a5f0009e1ae4a26a76b70a262bdcda1ba/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/papi-vlad/.android/build-cache/2378690a5f0009e1ae4a26a76b70a262bdcda1ba/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/papi-vlad/.android/build-cache/2378690a5f0009e1ae4a26a76b70a262bdcda1ba/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/papi-vlad/.android/build-cache/2378690a5f0009e1ae4a26a76b70a262bdcda1ba/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/papi-vlad/.android/build-cache/2378690a5f0009e1ae4a26a76b70a262bdcda1ba/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/papi-vlad/.android/build-cache/2378690a5f0009e1ae4a26a76b70a262bdcda1ba/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/papi-vlad/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/papi-vlad/.android/build-cache/4ef8b8f82a0fbb8b4bfa03a79be5513ea158e474/output/res/anim/abc_slide_out_top.xml"
+    }
+]
